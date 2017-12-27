@@ -1,0 +1,9 @@
+O que acontece ao iniciar um repositório? Por que você precisa fazer isso?
+Ao criar um repositório a pasta de metadados é criada, e o diretório passa a ser também um repositório.
+Preciso fazer isso para ter um repositório Git.
+
+Em que se difere a área de preparação do diretório de trabalho e do repositório? Qual valor você acha que ela oferece?
+A área de preparação, é uma área intermediária que serve para pensar em como será a melhor forma de trabalhar um commit.
+O valor dela é em relação aos históricos que poderão ser consultados futuramente, de outra maneira não poderiamos filtrar o que enviar para o repositório, e nem poderiamos criar commits baseados em alterações lógicas.
+
+
