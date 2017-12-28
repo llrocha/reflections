@@ -6,4 +6,18 @@ Em que se difere a área de preparação do diretório de trabalho e do reposit�
 A área de preparação, é uma área intermediária que serve para pensar em como será a melhor forma de trabalhar um commit.
 O valor dela é em relação aos históricos que poderão ser consultados futuramente, de outra maneira não poderiamos filtrar o que enviar para o repositório, e nem poderiamos criar commits baseados em alterações lógicas.
 
+Como você pode usar a área de preparação para garantir que tenha um commit por alteração lógica?
+Adicionando a área de preparação somente os arquivos que se referem a uma determinada alteração lógica. Como é possível escolher quais arquivos serão feito commit, então é possível separar por lógica mais facilmente.
 
+Quais são algumas das situações em que branches seriam úteis para manter seu histórico organizado? Como branches ajudariam?
+Os branches são úteis quando precisamos fazer alterações experimentais, ou muito grandes, para que o código em "master" não seja afetado.
+
+Como os diagramas ajudam a visualizar a estrutura de branches?
+Sem os diagramas não temos como enxergar a estrutura de branches
+
+Qual é o resultado da mesclagem de dois branches? Por que o representamos no diagrama dessa forma?
+
+
+Quais são os prós e contras da mesclagem automática do Git v. sempre fazer mesclagens manualmente?
+A vantagem é que nada é alterado sem o programador que está fazendo o MERGE saber.
+A desvantagem é que nem sempre a escolha do programador pode ser a correta.
